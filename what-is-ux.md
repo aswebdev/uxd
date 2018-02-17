@@ -24,3 +24,4 @@ A second definition
 # References
 [What the #&@%# is UX Design? - UX Mastery](https://www.youtube.com/watch?v=Ovj4hFxko7c)
 [What is UX Design? - Smashing Magazine](https://www.smashingmagazine.com/2010/10/what-is-user-experience-design-overview-tools-and-resources/)
+[Nordstrom - Putting lean practices to work](https://www.youtube.com/watch?v=szr0ezLyQHY)
