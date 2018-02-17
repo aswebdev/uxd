@@ -46,3 +46,7 @@ A solution is finalised, developed, produced and then launched. Taking all the p
 
 The delivery should ensure that relevant metrics can be measured against, so that success of the project can be known.
 
+
+# References
+1. [The Design Process. What is the Double Diamond](https://www.designcouncil.org.uk/news-opinion/design-process-what-double-diamond)
+
