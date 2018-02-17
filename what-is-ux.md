@@ -1,3 +1,5 @@
+<!-- TITLE:What is User Experience? -->
+
 # What is User Experience?
 One defintion of UX 
 >  "User experience is all aspects of a persons interaction with a product or service. It's their activities, attitiudes and emotions."
