@@ -6,3 +6,29 @@ The diamond diamond is a process of design problem solving. It involves explorin
 The two diamond represent:
 1. Confirming the initially assumed problem
 2. Exploring and confirming a solution 
+
+# The four stages
+The process is divided into four stages
+
+* Discovery
+* Define
+* Develop
+* Deliver
+
+## Discovery
+A problem as initially been assumed, ideas and insights are being discovered. Some of the activities included in the discovery phase include:
+* Analysing how competitors approach a similar problem
+* Talk with stakeholders
+* User interviews (field research and surveys)
+
+## Define
+The defintion stage is to try to make sense of all the possibilities in the discovery stage. Some of the questions to ask:
+* What are the key themes or insights in the data?
+* What should/can we act on first?
+* What is actually the problem?
+* What does success look like? How can we measure this?
+
+Some of the ac
+
+## Develop
+A problem has been properly defined and the development stage explores a number of pote
