@@ -2,3 +2,7 @@
 
 # What is it?
 The diamond diamond is a process of design problem solving. It involves exploring a number of ideas **Divergent Thinking** before narrowing down on the best ideas **Convergent Thinking**
+
+The two diamond represent:
+1. Confirming the initially assumed problem
+2. Exploring and confirming a solution 
