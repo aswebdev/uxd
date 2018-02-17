@@ -44,4 +44,5 @@ Some of the acitivies may include:
 ## Deliver
 A solution is finalised, developed, produced and then launched. Taking all the previous stages into account, the solution should ensure that users and business needs are successfully met.
 
+The delivery should ensure that relevant metrics can be measured against, so that success of the project can be known.
 
