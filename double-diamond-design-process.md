@@ -28,7 +28,20 @@ The defintion stage is to try to make sense of all the possibilities in the disc
 * What is actually the problem?
 * What does success look like? How can we measure this?
 
-Some of the ac
+Some of the activities may include:
+* Card sorting
+* User flows/user journey mapping
+* Reframing the problem with a new defintiion
 
 ## Develop
-A problem has been properly defined and the development stage explores a number of pote
+A problem has been properly defined and the development stage explores a number of potential solutions to the problem. Concepts are created, prototyped, tested and iterated. This a process of trial and error.
+
+Some of the acitivies may include:
+* Sketching
+* Mockup/Prototype development
+* User testing
+
+## Deliver
+A solution is finalised, developed, produced and then launched. Taking all the previous stages into account, the solution should ensure that users and business needs are successfully met.
+
+
