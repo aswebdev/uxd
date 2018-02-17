@@ -21,4 +21,5 @@ A second definition
 * **It aligns user goals to business needs** Aligning user goals to business needs ensures that all stakeholders needs are being satisfied.
 
 
-
+# References
+[What the #&@%# is UX Design?](https://www.youtube.com/watch?v=Ovj4hFxko7c)
