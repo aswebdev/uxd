@@ -19,4 +19,6 @@ Learn to interpret what the users true problems are, instead of creating solutio
 * What do they really need?
 * How could we find that out?
 
+# How are the users currently dealing with the problem?
+![Problem Hacking](/uploads/problem-hacking.png "Problem Hacking")
 
