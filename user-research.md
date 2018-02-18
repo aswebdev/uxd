@@ -23,3 +23,6 @@ Learn to interpret what the users true problems are, instead of creating solutio
 
 ![Problem Hacking](/uploads/problem-hacking.png "Problem Hacking")
 
+* Do existing solutions exist?
+* Are they hacking their own solutions?
+
