@@ -26,3 +26,15 @@ Learn to interpret what the users true problems are, instead of creating solutio
 * Do existing solutions exist?
 * Are they hacking their own solutions?
 
+# Conducting user interviews
+**Define the research goals**
+Make sure you put it into a research plan and share with your team to ensure that everyone is on the same page
+
+**You may need to interview clients/stakeholders**
+Do your clients know their research goals? Help them along by asking key questions to make sure you're researching the right subject.
+
+**Prep a discussion guide**
+This will guide your interviews and help you ask all the important topics you don't want to forget.
+
+
+
