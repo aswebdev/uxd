@@ -52,3 +52,6 @@ This will guide your interviews and help you ask all the important topics you do
 * Have a clear focused based on well defined goals and research questions
 * Has been planned with collaboration with stakeholders
 * Is concise and as simple as you can make it
+
+# References
+* [Seeing the elephant - Defragmenting user research](http://alistapart.com/article/seeing-the-elephant-defragmenting-user-research)
