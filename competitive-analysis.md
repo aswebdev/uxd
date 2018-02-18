@@ -8,3 +8,6 @@
 # Types of competitive analysis
 ## Feature Inventory
 ![Feature Inventory](/uploads/feature-inventory.png "Feature Inventory")
+
+## Pluses and Deltas
+![Pluses Deltas](/uploads/pluses-deltas.png "Pluses Deltas")
