@@ -37,4 +37,7 @@ Do your clients know their research goals? Help them along by asking key questio
 This will guide your interviews and help you ask all the important topics you don't want to forget.
 
 
-
+# When creating a user research plan
+* Have a clear focused based on well defined goals and research questions
+* Has been planned with collaboration with stakeholders
+* Is concise and as simple as you can make it
