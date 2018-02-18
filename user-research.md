@@ -11,3 +11,12 @@ It ensures you’re solving a problem that exists in peoples lives:
 
 # Methods of user research
 ![User Research Graph](//assets.asweb.com.au/User-Research-Graph.png)
+
+# Why don't we just ask people what they want?
+> "f I had asked people what they wanted, they would have said faster horses." - Henry Ford
+
+Learn to interpret what the users true problems are, instead of creating solutions based entirely on their answers. Ask the questions:
+* What do they really need?
+* How could we find that out?
+
+
