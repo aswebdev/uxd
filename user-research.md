@@ -55,3 +55,4 @@ This will guide your interviews and help you ask all the important topics you do
 
 # References
 * [Seeing the elephant - Defragmenting user research](http://alistapart.com/article/seeing-the-elephant-defragmenting-user-research)
+* [When to use which user research method](https://www.nngroup.com/articles/which-ux-research-methods/)
