@@ -37,6 +37,17 @@ Do your clients know their research goals? Help them along by asking key questio
 This will guide your interviews and help you ask all the important topics you don't want to forget.
 
 
+## Good user interview techniques
+> Ask open ended questions
+> Follow topics, not specific questions
+> Be a good listener
+> You are the apprentice (they are the expert)
+> Ask for experiences (rather than hypotheticals)
+> Encourage stories
+> Ask them to demonstrate
+> Don't seek confirmation
+> Don't fear silence
+
 # When creating a user research plan
 * Have a clear focused based on well defined goals and research questions
 * Has been planned with collaboration with stakeholders
