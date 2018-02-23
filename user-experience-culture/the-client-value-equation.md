@@ -10,6 +10,6 @@
 
 In it's most simple form, the measurement for client value as follows:
 
-> Client Value = Benefits -Cost 
+> Client Value = Benefits - Cost 
 
 
