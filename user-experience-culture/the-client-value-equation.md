@@ -14,5 +14,5 @@ In it's most simple form, the measurement for client value as follows:
 
 ### Creating better client value with UX
 
-
+Offering a better user experience automatically provides an increased percieved value towards the organisation. Customers are 
 
