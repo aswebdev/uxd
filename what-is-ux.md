@@ -28,3 +28,4 @@ A second definition
 [What is UX Design? - Smashing Magazine](https://www.smashingmagazine.com/2010/10/what-is-user-experience-design-overview-tools-and-resources/)
 [Nordstrom - Putting lean practices to work](https://www.youtube.com/watch?v=szr0ezLyQHY)
 [Lean UX Manifesto](https://datavizblog.com/2014/04/25/the-lean-ux-manifesto-principle-driven-design/)
+[Preventable mistakes by using UX upfront](!/uploads/preventable-mistakes-by-using-ux-upfront.png "Preventable Mistakes By Using Ux Upfront")
