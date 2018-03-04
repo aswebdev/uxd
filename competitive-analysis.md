@@ -5,7 +5,6 @@
 * Develop knowledge, spark ideas and note contrast
 * Identify best practices. Whats working, whats not
 * Use as a basis for user testing with existing products
-* 
 
 # Types of competitive analysis
 ## Feature Inventory
