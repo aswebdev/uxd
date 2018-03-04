@@ -1,4 +1,4 @@
-<!-- TITLE: Synthesising User Research -->
+<!-- TITLE: Synthesising User Research & Affinity Mapping -->
 
 # How did your interview findings relate to your initial expectations?
 * Use your early expectations to help frame what you've discovered through the research process
@@ -17,6 +17,13 @@
 * Rapidly clarifies large quantities of data
 * Helps the team perform a consensus about the meaning of the data and insights
 * Gives a traceable link between data and insights
+
+## How it works
+* Take an inight from an interviewee and put it on a post-it note (single colour per interviewee)
+* All caps (so its legible)
+* The insight has to be something you observed (quote or behaviour)
+* No solutioning allowed (don't assume you know what people need before defining the problem)
+
 
 
 
