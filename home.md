@@ -4,3 +4,4 @@
 2. [Double Diamond Design Process](/double-diamond-design-process)
 3. [User Research](/user-research)
 4. [Compeitive Analysis](/competitive-analysis)
+5. [Synthesising User Research](/synthesising-user-research)
