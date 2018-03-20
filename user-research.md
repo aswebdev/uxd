@@ -58,3 +58,4 @@ This will guide your interviews and help you ask all the important topics you do
 * [When to use which user research method](https://www.nngroup.com/articles/which-ux-research-methods/)
 * [The UX research plan that stakeholders love](https://www.smashingmagazine.com/2012/01/ux-research-plan-stakeholders-love/)
 * [UX Research Cheat Sheet](https://www.nngroup.com/articles/ux-research-cheat-sheet/)
+* [User Defenders - User Research War Stories, Steve Portigal](https://userdefenders.com/podcast/049-user-research-war-stories-with-steve-portigal/)
