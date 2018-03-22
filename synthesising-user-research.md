@@ -34,4 +34,4 @@
 * Putting these themes into labelled groups will assist in getting a better understanding of the picture
 
 ## Whats next?
-* Results and insights will assist in creating a persona for our user
+* Results and insights will assist in creating a [persona](/personas) for our user
