@@ -32,3 +32,6 @@
 
 * Themes and trends will emerge from research findings
 * Putting these themes into labelled groups will assist in getting a better understanding of the picture
+
+## Whats next?
+* Results and insights will assist in creating a persona for our user
