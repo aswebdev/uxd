@@ -27,3 +27,8 @@
 
 ![Affinity Map Example](/uploads/affinity-map-example.jpg "Affinity Map Example")
 
+
+## Grouping by themes
+
+* Themes and trends will emerge from research findings
+* Putting these themes into labelled groups will assist in getting a better understanding of the picture
