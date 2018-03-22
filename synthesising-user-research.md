@@ -25,5 +25,5 @@
 * No solutioning allowed (don't assume you know what people need before defining the problem)
 
 
-
+![Affinity Map Example](/uploads/affinity-map-example.jpg "Affinity Map Example")
 
