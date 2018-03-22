@@ -5,3 +5,4 @@
 3. [User Research](/user-research)
 4. [Compeitive Analysis](/competitive-analysis)
 5. [Synthesising User Research](/synthesising-user-research)
+6. [Personas](/personas)
