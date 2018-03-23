@@ -26,6 +26,11 @@ Learn to interpret what the users true problems are, instead of creating solutio
 * Do existing solutions exist?
 * Are they hacking their own solutions?
 
+# When creating a user research plan
+* Have a clear focused based on well defined goals and research questions
+* Has been planned with collaboration with stakeholders
+* Is concise and as simple as you can make it
+
 # Conducting user interviews
 **Define the research goals**
 Make sure you put it into a research plan and share with your team to ensure that everyone is on the same page
@@ -36,6 +41,11 @@ Do your clients know their research goals? Help them along by asking key questio
 **Prep a discussion guide**
 This will guide your interviews and help you ask all the important topics you don't want to forget.
 
+
+# Reviewing a user interview
+* Does what I learned change the original objective?
+* Is there a pattern in the data that suggests new design considerations?
+* Are there gaps in knowledge that I've uncovered that I need to research later?
 
 ## Good user interview techniques
 * Ask open ended questions
@@ -48,10 +58,7 @@ This will guide your interviews and help you ask all the important topics you do
 * Don't seek confirmation
 * Don't fear silence
 
-# When creating a user research plan
-* Have a clear focused based on well defined goals and research questions
-* Has been planned with collaboration with stakeholders
-* Is concise and as simple as you can make it
+
 
 # References
 * [Seeing the elephant - Defragmenting user research](http://alistapart.com/article/seeing-the-elephant-defragmenting-user-research)
