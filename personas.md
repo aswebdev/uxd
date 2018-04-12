@@ -16,3 +16,6 @@
 ## Parts to a persona
 
 ![Persona](/uploads/persona.png "Persona")
+
+## Example of a persona
+![Persona Example](/uploads/persona-example.png "Persona Example")
