@@ -13,5 +13,6 @@
 * Personas enable us to design for a specific person or archetype
 * Having focused user will stop you for trying to design for "everyone" (creating for everyone will please no one)
 
+## Parts to a persona
 
 ![Persona](/uploads/persona.png "Persona")
