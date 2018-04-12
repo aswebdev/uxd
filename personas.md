@@ -8,3 +8,7 @@
 * Personas help you empthaise with your users
 * Can assist with making design decisions, based on attitudes, goals and behaviours
 * Teams can more easily form concensus by referring to personas
+
+## Why are they important?
+* Personas enable us to design for a specific person or archetype
+* Having focused user will stop you for trying to design for "everyone" (creating for everyone will please no one)
