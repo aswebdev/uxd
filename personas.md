@@ -19,3 +19,11 @@
 
 ## Example of a persona
 ![Persona Example](/uploads/persona-example.png "Persona Example")
+
+## Good personas are USED personas
+*Expose them*
+Put them on the walls of your organisation, make them visible to everyone
+
+
+
+
