@@ -51,4 +51,5 @@ The delivery should ensure that relevant metrics can be measured against, so tha
 
 # References
 1. [The Design Process. What is the Double Diamond](https://www.designcouncil.org.uk/news-opinion/design-process-what-double-diamond)
+2. [Design Kit](http://www.designkit.org/)
 
