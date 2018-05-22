@@ -27,7 +27,7 @@ We can look at defining the problem through a problem statement or a hypothesis
 
 > We believe that [doing this], for [these people], we will achieve [this outcome]. We will know this to be true when we see [this feedback/quantitative measure/qualitative insight]. 
 
-### Problem Definition
+### Problem Statement
 
 > [Persona name] needs a way to [user’s need], because [insight]. 
 
