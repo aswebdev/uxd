@@ -2,7 +2,7 @@
 
 ## Bad Idea Party
 
-To help initally get ideas flowing and remove any stigma towards bad ideas, look back at the [Problem Statement / Hypthesis](/defining-user-goals) and sketch the **worst** ideas on how to solve this problem.
+To help initally get ideas flowing and remove any stigma towards bad ideas, look back at the [Problem Statement / Hypothesis](/defining-user-goals) and sketch the **worst** ideas on how to solve this problem.
 
 ## Good Ideas
 
