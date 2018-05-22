@@ -21,4 +21,14 @@ When users return to the design, how easily can they reestabilsh proficiency?
 * Use familiar design patterns (i.e [you should already know how to use it](https://www.smashingmagazine.com/2012/09/you-already-know-how-to-use-it/))
 * Begin with core functionality and save advanced tips for later functionality
 
+## Errors
+* How many errors do the users make?
+* How severe are these errors?
+* How easily can they recover from these errors?
+
+## Satisfaction
+How easy is the design to use?
+
+![Satisfaction](/uploads/satisfaction.png "Satisfaction")
+
 
