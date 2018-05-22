@@ -6,3 +6,4 @@
 4. [Compeitive Analysis](/competitive-analysis)
 5. [Synthesising User Research](/synthesising-user-research)
 6. [Personas](/personas)
+7. [Defining User Goals](/defining-user-goals)
