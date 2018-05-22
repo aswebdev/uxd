@@ -13,3 +13,8 @@
 
 ## The Tester
 * Think out loud. It will help others understand what you're doing/not doing
+
+# Revise
+Results from a usability test may prove that changes need to be made to the prototype. Making updates to sketches and performing more interviews will assist in creating a more refined prototype.
+
+
