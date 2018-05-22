@@ -18,4 +18,7 @@ A storyboard is a great way to demonstrate how something might be interacted wit
 
 Storyboards are a starting point to help describe use at a high level. This can be used as a basis for a user flow.
 
+## References
+[The Role of Storyboarding in UX](https://www.smashingmagazine.com/2017/10/storyboarding-ux-design/)
+
 
