@@ -8,3 +8,4 @@
 6. [Personas](/personas)
 7. [Defining User Goals](/defining-user-goals)
 8. [Storyboarding](/storyboarding)
+9. [User Flows](/user-flows)
