@@ -1,6 +1,7 @@
 <!-- TITLE: Prototyping -->
 
 # Why Protoype a design?
+![Why Prototype](/uploads/why-prototype.png "Why Prototype")
 
 It's all about testing:
 * Exploring ideas before you invest in them
