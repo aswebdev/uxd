@@ -15,3 +15,9 @@ User flows provide a more detailed guide from storyboards, as to the decisions t
 
 # Basic Shapes
 ![User Flow Shapes](/uploads/user-flow-shapes.png "User Flow Shapes")
+
+
+# Multi-User Flows
+Great for understanding flows with multiple participants involved
+
+![Multi User Flow](/uploads/multi-user-flow.png "Multi User Flow")
