@@ -31,4 +31,41 @@ How easy is the design to use?
 
 ![Satisfaction](/uploads/satisfaction.png "Satisfaction")
 
+# 10 Usability Heuristics
+
+## Visibility of system status
+The system should always keep the user informed of whats going on, through appropriate feedback within a resonable time
+
+* Progress bars
+* Position in a steps wizard
+
+## System-World Match
+The system should speak the users language with words, phrases and concepts familiar to the user, rather than system orientated language.
+
+* Iconography (e.g. a bin for delete)
+* Useage of real world items (e.g. a calculator with buttons similar to a real world calculator)
+
+
+## User Control and Freedom
+Users need to leave an undesired state without recieving unwanted dialogue. Support of undo and redo.
+
+## Consistency and Standards
+Users should not have to wonder whether different words, situations or actions mean the same thing.
+
+* Consistent language
+* Events should look and sound similar
+* Follow platform conventions (ios app v android app, desktop web browser)
+
+## Error prevention
+Attempt to eliminate any error prone situations but have good error messages in the event that an error occurs. Enable confirmations before completing critical actions.
+
+* "Do you really want to delete x?"
+
+## Recogition over recall
+Don't make the user remeber things. Minimise the users congitive load by making options visible and provide clear instructions when necessary.
+
+## Flexibility and efficiency of use
+
+
+
 
