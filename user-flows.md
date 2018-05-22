@@ -23,6 +23,13 @@ Great for understanding flows with multiple participants involved
 ![Multi User Flow](/uploads/multi-user-flow.png "Multi User Flow")
 
 
+# Getting started
+1. Determine which persona(s) you'll be designing for
+2. Determine the user needs and business objectives
+3. Something **AWESOME** that the user won't be expecting, but will love
+4. Where is the user coming from? What is the entry point?
+
+
 # Tips for User Flows
 * Start with the simple *happy path* and add detail later
 * Cover the flow that the user sees (not what happens behind the curtain)
