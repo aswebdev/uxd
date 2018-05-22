@@ -18,4 +18,4 @@ Once the users have learned the design, how easy is it for them to complete task
 When users return to the design, how easily can they reestabilsh proficiency?
 
 **Designing for memorability**
-* Use familiar design patterns (i.e [you should already know how to use it](https://www.smashingmagazine.com/2012/09/you-already-know-how-to-use-it/)
+* Use familiar design patterns (i.e [you should already know how to use it](https://www.smashingmagazine.com/2012/09/you-already-know-how-to-use-it/) )
