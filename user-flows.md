@@ -21,3 +21,8 @@ User flows provide a more detailed guide from storyboards, as to the decisions t
 Great for understanding flows with multiple participants involved
 
 ![Multi User Flow](/uploads/multi-user-flow.png "Multi User Flow")
+
+
+# Tips for User Flows
+* Start with the simple *happy path* and add detail later
+* Cover the flow that the user sees (not what happens behind the curtain)
