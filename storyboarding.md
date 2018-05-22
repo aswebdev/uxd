@@ -16,4 +16,6 @@ A storyboard is a great way to demonstrate how something might be interacted wit
 1. Take an idea and expand it into a series of steps on how it might be used
 2. Make a series of images with text to explain whats happening
 
+Storyboards are a starting point to help describe use at a high level. This can be used as a basis for a user flow.
+
 
