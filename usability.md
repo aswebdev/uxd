@@ -54,7 +54,7 @@ Users should not have to wonder whether different words, situations or actions m
 
 * Consistent language
 * Events should look and sound similar
-* Follow platform conventions (ios app v android app, desktop web browser)
+* Follow platform conventions (ios app vs android app, desktop web browser)
 
 ## Error prevention
 Attempt to eliminate any error prone situations but have good error messages in the event that an error occurs. Enable confirmations before completing critical actions.
@@ -66,6 +66,18 @@ Don't make the user remeber things. Minimise the users congitive load by making 
 
 ## Flexibility and efficiency of use
 
+* Support both novice and advanced users
+* Allow users to tailor certain actions
 
+## Minimal design
+The design should not contain more information than necessary
 
+## Errors, help users recognize, diagnose, and recover
+* Communicate errors in plain language
+* Indicate the problem and suggest a solution
+
+## Help and documentation
+* It's always better if a system can be developed without the need of help or knowledge base, however it may be necessary
+* Any information should be easy to search and focused on the users task at hand
+* A concrete list of steps should be created without being too large
 
