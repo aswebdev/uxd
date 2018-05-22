@@ -23,6 +23,11 @@ This way of definition suggests an area of focus, but offers a chance to address
 
 We can look at defining the problem through a problem statement or a hypothesis
 
-### Problem Statement
+### Hypothesis
 
 > We believe that [doing this], for [these people], we will achieve [this outcome]. We will know this to be true when we see [this feedback/quantitative measure/qualitative insight]. 
+
+### Problem Definition
+
+> [Persona name] needs a way to [user’s need], because [insight]. 
+
