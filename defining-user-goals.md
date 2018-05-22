@@ -18,3 +18,11 @@ Another way to define the problem without specifically addressing how you are go
 This way of definition suggests an area of focus, but offers a chance to address the problem in several different ways.
 
 [IDEO Design Kit - How Might We](http://www.designkit.org/methods/3)
+
+## Problem Statements & Hypotheses
+
+We can look at defining the problem through a problem statement or a hypothesis
+
+### Problem Statement
+
+> We believe that [doing this], for [these people], we will achieve [this outcome]. We will know this to be true when we see [this feedback/quantitative measure/qualitative insight]. 
