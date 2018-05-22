@@ -7,3 +7,4 @@
 5. [Synthesising User Research](/synthesising-user-research)
 6. [Personas](/personas)
 7. [Defining User Goals](/defining-user-goals)
+8. [Storyboarding](/storyboarding)
