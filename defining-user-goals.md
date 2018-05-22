@@ -10,3 +10,11 @@
 * Why does the persona need to address the problem?
 * Where is your persona when they want to solve this problem?
 * When does your persona want to solve the problem?
+
+## How might we _____________?
+
+Another way to define the problem without specifically addressing how you are going to solve it.
+
+This way of definition suggests an area of focus, but offers a chance to address the problem in several different ways.
+
+[IDEO Design Kit - How Might We](http://www.designkit.org/methods/3)
