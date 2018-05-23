@@ -30,3 +30,18 @@ Choose the information:
 * Who to recruit?
 * How many to recruit?
 * Multiple Groups? Group Sizes?
+
+## 4. Facilitate the card sort
+* Explain the process
+* Give timings and start
+* Observe and take notes
+* Clarify but don't lead
+* End the sort
+* Have a short discussion with the groups
+* Take photos
+* Carefully collect the cards
+
+## 5. Analyse the results
+* What does the results tell us?
+* What decisions need to be made in terms of our IA?
+
