@@ -64,3 +64,49 @@ Information can be organised by:
 **Exact** - Location, Alphabetically, Time
 **Ambiguous** - Topic, Audience, Task
 
+
+# Understanding how users seek information
+## Known-item
+In a known-item the user:
+* Knows what they want
+* Knows what words to use to describe it
+* May have a good understanding of where to start
+
+> "Where do I find that Armani Jacket?"
+
+Design approaches include:
+* Search
+* Navigation
+
+## Exploratory
+The user has some idea of what they need to know. However they may not know how to articulate it, and if they can, may not know the right words to use.
+
+> "What options are available to invest my money in?"
+
+Design approaches include:
+* Browsable categories
+* Associated items
+* Suggestive Search
+
+## Unknown
+The key concept is that users don't know exactly what they need to know.
+
+> "What do I need to do to organise a will?"
+
+Design approaches include:
+* Reccomendations
+* Suggested Items
+
+## Re-Finding
+Users are looking for things they have already seen.
+
+> "Where did I see that skateboard?"
+
+Design approaches include:
+* Personalisation
+* Favourites
+* Dynamic History
+
+
+# References
+[Four Modes of Seeking Information and how to design for them](http://boxesandarrows.com/four-modes-of-seeking-information-and-how-to-design-for-them/)
