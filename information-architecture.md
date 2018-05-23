@@ -51,3 +51,16 @@ Card sorting tells us how people group things and make associations, however it'
 
 [Tree testing software](https://www.optimalworkshop.com/treejack) can assist with helping these research questions.
 
+
+# Organising Information
+Information can be organised by:
+* Location
+* Alphabetically
+* Time
+* Topic (e.g. Sport, Weather, Current Affairs)
+* Audience (e.g. Personal, Business)
+* Task (e.g. Book Flight, Book Hotel)
+
+**Exact** - Location, Alphabetically, Time
+**Ambiguous** - Topic, Audience, Task
+
