@@ -17,7 +17,9 @@ Choose sorting criteria carefully:
 ## Dot Voting
 ![Dot Voting](/uploads/dot-voting.png "Dot Voting")
 
-
+* Can be a great way to engage clients and stakeholders in the decision making process
+* Make sure voters are aligned to the problem, so a popularity contest does not ensue
 # References
 [80/20 Rule Applied to Web Design](https://www.webdesignerdepot.com/2011/02/the-8020-rule-applied-to-web-design/)
 [Before you plan your product roadmap](https://blog.intercom.com/before-you-plan-your-product-roadmap/)
+[How to use Dot-Voting Effectively](http://dotmocracy.org/dot-voting/)
