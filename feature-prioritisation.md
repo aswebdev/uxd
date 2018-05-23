@@ -19,6 +19,12 @@ Choose sorting criteria carefully:
 
 * Can be a great way to engage clients and stakeholders in the decision making process
 * Make sure voters are aligned to the problem, so a popularity contest does not ensue
+
+
+# Scope creep
+* Understand the important of the MVP
+* Just because a stakeholder likes the idea, doesn't mean it's the best solution
+
 # References
 [80/20 Rule Applied to Web Design](https://www.webdesignerdepot.com/2011/02/the-8020-rule-applied-to-web-design/)
 [Before you plan your product roadmap](https://blog.intercom.com/before-you-plan-your-product-roadmap/)
