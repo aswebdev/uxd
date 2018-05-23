@@ -45,3 +45,9 @@ Choose the information:
 * What does the results tell us?
 * What decisions need to be made in terms of our IA?
 
+
+# Testing your IA
+Card sorting tells us how people group things and make associations, however it's not the best way to tell if your IA helps them to complete tasks or find things.
+
+[Tree testing software](https://www.optimalworkshop.com/treejack) can assist with helping these research questions.
+
