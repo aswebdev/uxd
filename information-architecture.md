@@ -107,6 +107,14 @@ Design approaches include:
 * Favourites
 * Dynamic History
 
+# Labels
+Use the four C's
+
+* Congruous - In harmony with the action or associated content
+* Clear
+* Correct
+* Consistent
+
 
 # References
 [Four Modes of Seeking Information and how to design for them](http://boxesandarrows.com/four-modes-of-seeking-information-and-how-to-design-for-them/)
