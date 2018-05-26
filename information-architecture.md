@@ -116,5 +116,17 @@ Use the four C's
 * Consistent
 
 
+# Navigation
+
+## General Tips
+* Set the navigation priorities based on the _users_ perspetive, not the clients or other stakeholders
+* Humans have only a limited number of options they can juggle at the one time
+* Keep as few levels as possible (3 at max)
+* The deeper the user goes into levels, the more interest they have and more options you can show
+
+## Ambient Findability
+Your app or website should have visual indicators that remind the user where they are:
+* Breadcrumbs
+* Wizards
 # References
 [Four Modes of Seeking Information and how to design for them](http://boxesandarrows.com/four-modes-of-seeking-information-and-how-to-design-for-them/)
