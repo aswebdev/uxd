@@ -14,3 +14,4 @@
 12. [Usability Testing](/usability-testing)
 13. [Feature Prioritisation](/feature-prioritisation)
 14. [Information Architecture](/information-architecture)
+15. [Wireframing](/wireframing)
