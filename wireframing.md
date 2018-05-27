@@ -14,3 +14,4 @@ A wireframe will bring together:
 
 Its the step between the _sketch_ and the _prototype_
 
+![Whiteboard To Prototype](/uploads/whiteboard-to-prototype.png "Whiteboard To Prototype")
