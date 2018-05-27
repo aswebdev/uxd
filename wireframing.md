@@ -29,5 +29,10 @@ Its the step between the _sketch_ and the _prototype_
 * Can do lots of iteractions quickly
 * Demonstrates your thinking to stakeholders
 
+## Wireframing
+* Shows further detail and spec
+* Annotations to explain decisions
+* Formal artefact of the design
+* Can cross over to prototype
 
 
