@@ -50,3 +50,12 @@ Software solutions:
 * [Sketch](https://www.sketchapp.com/)
 * [Adobe XD](https://www.adobe.com/au/products/xd.html)
 
+# Wireframe tips
+* Be clear about your objective before you start
+* Function over pretty
+* Grey for emphasis, colour for meaning
+* Use a grid to help struture your layout
+* Be consistent in the level of detail throughout
+* Justify every elements existance
+* Be clear and professional in the documentation
+
