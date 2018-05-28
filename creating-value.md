@@ -27,4 +27,14 @@ Three elements must happen at the same moment for a behaviour to occur:
 
 Whats the minimum interaction the user needs to have with your product to get the intended reward?
 
-## Step 3 - The Reward
+## Step 3 - The Variable Reward
+Types of rewards:
+* Rewards of the *tribe* are social affirmations
+* Rewards of the *hunt* are based on finding something you want
+* Rewards of the *self* deal with matery
+
+How do you reward the user?
+Is there interesting variety?
+What types of rewards can you offer across the three categories?
+
+
