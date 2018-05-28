@@ -24,8 +24,16 @@
 * They shouldn't solution the project
 * They should focus on what is happening, not how to fix it
 
+### Tips for guiding
+* "We are testing the app, we are not testing you"
+* "You won't be hurting our feelings, we are looking for constructive feedback"
+* "You can't do anything wrong"
+* "Please think out loud"
+* "I can't answer questions during the test, but I will afterwards"
 
 ## The note taker
+* Take observational notes. Keep observations separate from overall insights or design solutions
+
 
 # Revise
 Results from a usability test may prove that changes need to be made to the prototype. Making updates to sketches and performing more interviews will assist in creating a more refined prototype.
