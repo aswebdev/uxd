@@ -6,6 +6,9 @@
 * Give an overall sense of how all parts of the product hang together
 * Communicate functionality, not necessarily visual layout
 
+|Tables|Cool|
+|1|2|
+
 A wireframe will bring together:
 * Structure
 * Navigation
