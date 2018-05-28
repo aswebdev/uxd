@@ -34,6 +34,11 @@
 ## The note taker
 * Take observational notes. Keep observations separate from overall insights or design solutions
 
+# Making sense of the results
+* Use affinity mapping to visualise trends in the testing observations. Solutions can be prioritised (in collaboration with stakeholders)
+* Keep solutions separate from observations
+* Use your judgement about what seems like an issue
+* Think about what may need to be validated or tested further
 
 # Revise
 Results from a usability test may prove that changes need to be made to the prototype. Making updates to sketches and performing more interviews will assist in creating a more refined prototype.
