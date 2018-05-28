@@ -9,6 +9,11 @@
 * Font size matters. It should be easy for everyone to read without strain
 * If the font is hard to read, the meaning of the text is also lost
 
-# Content
+# Content Strategy
 ## Common questions for the content creator
 ![Common Questions For Content Creator](/uploads/common-questions-for-content-creator.png "Common Questions For Content Creator")
+
+## Find your style
+What voice or tone do you want your content to project?
+
+![Mailchimp Voice](/uploads/mailchimp-voice.png "Mailchimp Voice")
