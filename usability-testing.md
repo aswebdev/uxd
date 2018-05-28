@@ -43,4 +43,23 @@
 # Revise
 Results from a usability test may prove that changes need to be made to the prototype. Making updates to sketches and performing more interviews will assist in creating a more refined prototype.
 
+# Reporting Usability Testing Results
+## Formal Method
+* Study Goals
+* Methodology
+* Participant Demographics
+* Summaries of high level findings
+* Details of meaningful findings
+* Emphasis on action items
 
+## Informal Method
+Some examples may include:
+
+* [Rainbow Spreadsheet](https://www.smashingmagazine.com/2013/04/rainbow-spreadsheet-collaborative-ux-research-tool/)
+* Short Summary
+* Bullet Lists
+* Quotes
+* Audio/Video
+
+## Group De-Brief
+Demonstrate and synthesise results with team, which will assist in determining next actionable items
