@@ -12,3 +12,12 @@
 * Forgive mistakes
 * Show progress
 * Let users tab
+
+# Clear Communication
+* Use natual language and speak with a single voice
+* Provide natuual breaks in the flow
+* Indicate progress at key points
+* Ask non-essential questions after the form is completed
+* Auto-populate anything you can
+
+
