@@ -47,4 +47,19 @@ Ask yourself:
 * User generated content is *cheap* and an opportunity for people to invest in the product
 * Create opportunities for people to invest, and to set up the next trigger
 
+Ask yourself:
+* How do your users set up the trigger that will bring them back?
+* Can users create value by investing effort into your product?
+
+
+# When to consider the hook model
+* During the first time experience
+	* Sign-Up
+	* Onboarding
+
+* Return path back into the experience
+	* Push Notification
+	* Email Newsletter
+	* App Icon
+
 
