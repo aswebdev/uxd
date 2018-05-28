@@ -50,5 +50,3 @@ Software solutions:
 * [Sketch](https://www.sketchapp.com/)
 * [Adobe XD](https://www.adobe.com/au/products/xd.html)
 
-
-# Demonstrating useful
