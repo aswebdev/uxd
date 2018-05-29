@@ -17,3 +17,6 @@
 What voice or tone do you want your content to project?
 
 ![Mailchimp Voice](/uploads/mailchimp-voice.png "Mailchimp Voice")
+
+# References
+[Language as Interface](https://clemauyeung.org/2015/06/09/voice-and-tone-ux-design-project/)
