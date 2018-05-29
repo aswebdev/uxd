@@ -24,3 +24,9 @@ Ask yourself:
 * What is going to make an emotional connection to the user?
 * Getting people to care starts in a way that makes them feel understood
 
+# Starting in a Null State
+* Think of how to generate value for the user early in the process, so they have a reason to return
+* Use this opportunity to let your experiences personality shine through
+* Don't let the user face a blank screen when they first open the app. Think of ways to help get them started
+
+
