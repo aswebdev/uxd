@@ -20,6 +20,6 @@ What voice or tone do you want your content to project?
 
 ### Explore the effects of voice and tone
 
-*project* is *adjective*, *adjective* but not *adjective*
+**project** is **adjective**, **adjective** but never **adjective**
 # References
 [Language as Interface](https://clemauyeung.org/2015/06/09/voice-and-tone-ux-design-project/)
