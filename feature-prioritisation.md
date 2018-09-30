@@ -29,3 +29,4 @@ Choose sorting criteria carefully:
 [80/20 Rule Applied to Web Design](https://www.webdesignerdepot.com/2011/02/the-8020-rule-applied-to-web-design/)
 [Before you plan your product roadmap](https://blog.intercom.com/before-you-plan-your-product-roadmap/)
 [How to use Dot-Voting Effectively](http://dotmocracy.org/dot-voting/)
+[Using Prioritization Matrices to Inform UX Decisions](https://www.nngroup.com/articles/prioritization-matrices/)
