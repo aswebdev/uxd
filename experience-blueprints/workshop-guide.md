@@ -13,7 +13,7 @@
 1. *Current State Blueprint* - Development of the current state blueprint
 2. *Alignment* - Present and discuss with key people involved in the process (ensure that everyone is aligned on the key activities)
 3. *Future State Blueprint* - Development of the future state blueprint
-4. *Project cards/How can we* - Define projects/how could we statements for the key things that need to happen for moving to the ideal state
+4. *Project cards/How can we* - Define projects/[how could we](/defining-user-goals) statements for the key things that need to happen for moving to the ideal state
 5. *Roadmap/Prioritisation* - Prioritise projects using [feature priorisation methods](/feature-prioritisation)
 
 
