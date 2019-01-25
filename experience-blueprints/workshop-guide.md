@@ -33,5 +33,13 @@
 4. Direct the flow lines
 
 *Customer actions*
+* The physical or mental actions of the customer
+* If multiple customers, highlight each customer name
+* *If time permits* - What are the customers emotions? How are they thinking feeling?
+
+
+
+
+
 
 
