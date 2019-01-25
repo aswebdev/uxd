@@ -16,4 +16,10 @@
 4. *Project cards/How can we* - Define projects/[how could we](/defining-user-goals) statements for the key things that need to happen for moving to the ideal state
 5. *Roadmap/Prioritisation* - Prioritise projects using [feature priorisation methods](/feature-prioritisation)
 
+*Key concepts*
+* Fontstage vs Backstage - Parts of the product/service visible to the client (fronstage) verus ones that are hidden (backstage)
+* Swimlanes - Horizontal rows for organising particular aspects of the product/service (customer actions, touchpoints)
+* Moments - Vertrical columns which encapsulate the activities happening at a given moment in the experience. 
+* Stages - Used to group the particular phases of the experience, which help with overall structure of the product/service
+
 
