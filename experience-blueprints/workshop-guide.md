@@ -42,6 +42,19 @@
 * Examples (email, phone, in-person conversation)
 * Try to keep to one touchpoint per moment
 
+*Staff Actions (Frontstage)*
+* What is the staff member doing in-front of the customer?
+* Which staff member? (adviser, admin)
+
+
+*Staff actions (Backstage)*
+* Whats the staff member doing behind the scenes?
+* Which staff member?
+
+*Support processes*
+* What are the tools and systems and systems necessary?
+* Both digitial and analog
+
 
 
 
