@@ -17,7 +17,7 @@
 5. *Roadmap/Prioritisation* - Prioritise projects using [feature priorisation methods](/feature-prioritisation)
 
 *Key concepts*
-* Fontstage vs Backstage - Parts of the product/service visible to the client (fronstage) verus ones that are hidden (backstage)
+* Fontstage vs Backstage - Parts of the product/service visible to the client (frontstage) verus ones that are hidden (backstage)
 * Swimlanes - Horizontal rows for organising particular aspects of the product/service (customer actions, touchpoints)
 * Moments - Vertrical columns which encapsulate the activities happening at a given moment in the experience. 
 * Stages - Used to group the particular phases of the experience, which help with overall structure of the product/service
@@ -36,6 +36,11 @@
 * The physical or mental actions of the customer
 * If multiple customers, highlight each customer name
 * *If time permits* - What are the customers emotions? How are they thinking feeling?
+
+*Touchpoints*
+* The medium of exchange between the customer and the service
+* Examples (email, phone, in-person conversation)
+* Try to keep to one touchpoint per moment
 
 
 
