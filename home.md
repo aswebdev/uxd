@@ -26,7 +26,7 @@
 
 19. [Experience Blueprints](/experience-blueprints)
 
-### Lean
+### LEAN
 
 
 ToDo:
