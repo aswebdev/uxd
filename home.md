@@ -24,10 +24,11 @@
 
 ### Experience Blueprinting
 
-19. [Experience Blueprints](/experience-blueprints)
+1. [Experience Blueprints](/experience-blueprints)
 
 ### LEAN
 
+1. [Core ideas of lean](/lean/core-ideas)
 
 ToDo:
 Add section on [Disney creative strategy](https://www.designorate.com/disneys-creative-strategy/amp/)
