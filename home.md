@@ -1,4 +1,6 @@
-<!-- Title:User Experience Design -->
+<!-- Title:Home -->
+
+### User Experience Design
 
 1. [What is User Experience?](/what-is-ux)
 2. [Double Diamond Design Process](/double-diamond-design-process)
@@ -19,7 +21,12 @@
 16. [Visual Design](/visual-design)
 17. [Forms](/forms)
 18. [Onboarding](/onboarding)
+
+### Experience Blueprinting
+
 19. [Experience Blueprints](/experience-blueprints)
+
+### Lean
 
 
 ToDo:
