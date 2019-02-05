@@ -30,5 +30,7 @@
 
 1. [Core ideas of lean](/lean/core-ideas)
 
-ToDo:
+
+### To add
+
 Add section on [Disney creative strategy](https://www.designorate.com/disneys-creative-strategy/amp/)
