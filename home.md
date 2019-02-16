@@ -29,10 +29,11 @@
 ### LEAN
 
 1. [Core ideas of lean](/lean/core-ideas)
-2. [Using Colour with Lean](/lean/the-mind-learns-in-colour)
-3. [7 Speed bumps of Lean](/lean/seven-speed-humps)
-4. [Never set the product or service down](/lean/never-set-product-service-down)
-5. [When data gets questioned](/lean/when-data-gets-questioned)
+2. [Start focusing on the mistakes](/lean/focusing-on-the-mistakes)
+3. [Using Colour with Lean](/lean/the-mind-learns-in-colour)
+4. [7 Speed bumps of Lean](/lean/seven-speed-humps)
+5. [Never set the product or service down](/lean/never-set-product-service-down)
+6. [When data gets questioned](/lean/when-data-gets-questioned)
 
 ### To add
 
