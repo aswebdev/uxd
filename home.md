@@ -34,6 +34,7 @@
 4. [7 Speed bumps of Lean](/lean/seven-speed-humps)
 5. [Never set the product or service down](/lean/never-set-product-service-down)
 6. [When data gets questioned](/lean/when-data-gets-questioned)
+7. [Creating process measures](/lean/creating-process-measures)
 
 ### To add
 
