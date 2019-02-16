@@ -26,7 +26,7 @@
 
 1. [Experience Blueprints](/experience-blueprints)
 
-### LEAN
+### Lean
 
 1. [Core ideas of lean](/lean/core-ideas)
 2. [Start focusing on the mistakes](/lean/focusing-on-the-mistakes)
