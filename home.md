@@ -30,7 +30,7 @@
 
 1. [Core ideas of lean](/lean/core-ideas)
 2. [Using Colour with Lean](/lean/the-mind-learns-in-colour)
-
+3. [7 Speed bumps of Lean](/lean/seven-speed-humps)
 
 ### To add
 
