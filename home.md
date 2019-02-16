@@ -29,6 +29,7 @@
 ### LEAN
 
 1. [Core ideas of lean](/lean/core-ideas)
+2. [Using Colour with Lean](/lean/the-mind-learns-in-colour)
 
 
 ### To add
