@@ -32,6 +32,7 @@
 2. [Using Colour with Lean](/lean/the-mind-learns-in-colour)
 3. [7 Speed bumps of Lean](/lean/seven-speed-humps)
 4. [Never set the product or service down](/lean/never-set-product-service-down)
+5. [When data gets questioned](/lean/when-data-gets-questioned)
 
 ### To add
 
