@@ -17,10 +17,10 @@
 13. [Feature Prioritisation](/feature-prioritisation)
 14. [Information Architecture](/information-architecture)
 15. [Creating Value](/creating-value)
-15. [Wireframing](/wireframing)
-16. [Visual Design](/visual-design)
-17. [Forms](/forms)
-18. [Onboarding](/onboarding)
+16. [Wireframing](/wireframing)
+17. [Visual Design](/visual-design)
+18. [Forms](/forms)
+19. [Onboarding](/onboarding)
 
 ### Experience Blueprinting
 
@@ -30,13 +30,14 @@
 
 1. [Core ideas of lean](/lean/core-ideas)
 2. [Choosing the right metrics (Core Score)](/lean/core-score)
-2. [Start focusing on the mistakes](/lean/focusing-on-the-mistakes)
-3. [Using Colour with Lean](/lean/the-mind-learns-in-colour)
-4. [7 Speed bumps of Lean](/lean/seven-speed-humps)
-5. [Never set the product or service down](/lean/never-set-product-service-down)
-6. [When data gets questioned](/lean/when-data-gets-questioned)
-7. [Creating process measures](/lean/creating-process-measures)
-8. [Automating with software](/lean/automating-with-software)
+3. [Start focusing on the mistakes](/lean/focusing-on-the-mistakes)
+4. [Using Colour with Lean](/lean/the-mind-learns-in-colour)
+5. [7 Speed bumps of Lean](/lean/seven-speed-humps)
+6. [Never set the product or service down](/lean/never-set-product-service-down)
+7. [When data gets questioned](/lean/when-data-gets-questioned)
+8. [Creating process measures](/lean/creating-process-measures)
+9. [Automating with software](/lean/automating-with-software)
+10. [The Dirty 30 Process](/lean/dirty-thirty-process) 
 
 ### To add
 
