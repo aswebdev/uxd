@@ -39,9 +39,14 @@
 9. [Automating with software](/lean/automating-with-software)
 10. [The Dirty 30 Process](/lean/dirty-thirty-process) 
 
+### Management
+1. [5 Ps of management](http://www.i4design.com/chickenscratch/2017/4/23/5ps-management)
+
+
 ### General
 
 1. [Tipping ideas into the mainstream (getting stakeholders support)](/lean/tipping-ideas-into-mainstream)
+
 
 
 ### To add
