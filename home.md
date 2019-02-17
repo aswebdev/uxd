@@ -39,6 +39,11 @@
 9. [Automating with software](/lean/automating-with-software)
 10. [The Dirty 30 Process](/lean/dirty-thirty-process) 
 
+### General
+
+1. [Tipping ideas into the mainstream (getting stakeholders support)](/lean/tipping-ideas-into-mainstream)
+
+
 ### To add
 
 Add section on [Disney creative strategy](https://www.designorate.com/disneys-creative-strategy/amp/)
