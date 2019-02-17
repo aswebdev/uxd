@@ -29,6 +29,7 @@
 ### Lean
 
 1. [Core ideas of lean](/lean/core-ideas)
+2. [Choosing the right metrics (Core Score)](/lean/core-score)
 2. [Start focusing on the mistakes](/lean/focusing-on-the-mistakes)
 3. [Using Colour with Lean](/lean/the-mind-learns-in-colour)
 4. [7 Speed bumps of Lean](/lean/seven-speed-humps)
