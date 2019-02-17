@@ -12,6 +12,6 @@ Connect people with new ideas. Who is the center of influence in your company wh
 Do it all for the money. They make change happen through persuasion.
 
 
-#### Resources
+### Resources
 
 [Mavern, Connector or Salesperson](https://www.productiveflourishing.com/maven-connector-or-salesperson-whats-your-archetype/)
