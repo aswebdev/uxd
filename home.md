@@ -39,6 +39,9 @@
 9. [Automating with software](/lean/automating-with-software)
 10. [The Dirty 30 Process](/lean/dirty-thirty-process) 
 
+### Startups & Business Building
+
+
 ### Management
 1. [5 Ps of management](http://www.i4design.com/chickenscratch/2017/4/23/5ps-management)
 
