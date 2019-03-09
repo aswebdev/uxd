@@ -42,7 +42,7 @@
 ### Startups & Business Building
 1. [Creative Monopolies](/startups/creative-monopolies)
 2. [Finding secrets](/startups/finding-secrets)
-3. [Cash is not king](/startups/cash-is-not-king)
+3. [Computers vs Humans](/startups/computers-vs-humans)
 
 ### Management
 1. [5 Ps of management](http://www.i4design.com/chickenscratch/2017/4/23/5ps-management)
