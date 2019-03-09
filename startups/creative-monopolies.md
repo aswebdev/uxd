@@ -17,3 +17,4 @@ Every startup is small at the start. Evey monopoly dominates a large share of th
 2. Scale upwards but by degrees - Gradually expand into related and slightly broader markets
 3. Forget disruption - Creation is far more important than beating the competiton
 4. Focus on endgame - Study the endame before anything else
+5. The last will be the first - Instead of first mover advantage make the last great development in a specific market and reap the fruits of a mature ecosystem.
