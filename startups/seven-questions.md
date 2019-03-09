@@ -22,4 +22,4 @@ You need an effective distribution channel. Primarily a way to get close to the 
 What does your market look like in 10 or 20 years time? How will your solution dominate the space? What possible compeition could you face? You need to be asking these questions to see how durable your future is.
 
 ### 7. The secret question
-Great companies are built on 
+Great companies are built on fnding answers to secrets, this is the heart of innovation. Secrets are problems that have answers that nobody has figured out yet. Every great company and product solves a problem for the customer in a new way. Think Uber and AirBnb.
