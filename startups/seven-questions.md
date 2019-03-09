@@ -23,3 +23,4 @@ What does your market look like in 10 or 20 years time? How will your solution d
 
 ### 7. The secret question
 Great companies are built on fnding answers to secrets, this is the heart of innovation. Secrets are problems that have answers that nobody has figured out yet. Every great company and product solves a problem for the customer in a new way. Think Uber and AirBnb.
+Does your innovation uncover a secret, which solves a fundamental problem for the customer?
