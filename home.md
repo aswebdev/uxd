@@ -41,7 +41,6 @@
 
 ### Startups & Business Building
 1. [Creative Monopolies](/startups/creative-monopolies)
-2. [10x the substitutes](/startups/10x)
 
 ### Management
 1. [5 Ps of management](http://www.i4design.com/chickenscratch/2017/4/23/5ps-management)
