@@ -12,5 +12,8 @@ A good rule of thumb for proprietary technology is to make sure it's at least 10
 ## Start small and monopolise
 Every startup is small at the start. Evey monopoly dominates a large share of the market. *Therefore every startup should start with a very small market.* Always err on the side of starting too small. The reason is simple: It's easier to dominate a small market than a large one. If you think your initial market is too big, it most certainly is.
 
-## Think about...
-How can I think about ways to create a creative monopoly for a product or service?
+## How to build a monopoly
+1. Start small - Cast a narrow net and focus completly on serving a niche customer base
+2. Scale upwards but by degrees - Gradually expand into related and slightly broader markets
+3. Forget disruption - Creation is far more important than beating the competiton
+4. Focus on endgame - Study the endame before anything else
