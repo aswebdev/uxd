@@ -14,3 +14,12 @@ Monopolies allow you to innovate, you will have cashflow to try radical things. 
 So much of innovation is about the quality of people and culture that you have. 
 
 You need to ask yourself if you really have the right people working on real product innovations. Do you have the best people on your team to puruse the product to market?
+
+### 5. The distribution question
+You need an effective distribution channel. Primarily a way to get close to the customer, so they can experience the superior advantage that you bring. Think marketing, trade shows. Whats your solution to distribution?
+
+### 6. The durability question
+What does your market look like in 10 or 20 years time? How will your solution dominate the space? What possible compeition could you face? You need to be asking these questions to see how durable your future is.
+
+### 7. The secret question
+Great companies are built on 
