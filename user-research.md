@@ -51,11 +51,11 @@ We are all informed by our own experiences, suspicions and what people have told
 **Be hungry for the participants take on things**
 Not only should you be ready to hear a participants take on things, you shoud be _hungry_ for it. Embrace this as a deliberate state
 
-** Be aware of your body language**
+**Be aware of your body language**
 * Make and maintain eye contact
 * Lean forward and be visibly engaged
 
-** Stage activities where possible**
+**Stage activities where possible**
 Get the participant to demonstrate an activity, rather than tell you about it. It will give much more insight into how they complete a set of tasks
 # Reviewing a user interview
 * Does what I learned change the original objective?
