@@ -59,7 +59,7 @@ Not only should you be ready to hear a participants take on things, you shoud be
 Get the participant to demonstrate an activity, rather than tell you about it. It will give much more insight into how they complete a set of tasks
 
 **Use their language and terminology**
-Refer to concepts and objects the way that the participant does. Do not correct them explicitly or implicily
+Refer to concepts and objects the way that the participant does. Do not correct them explicitly or implicily. You are there to learn from them, do not assert your own expertise
 
 **Getting started**
 * Thank the participant for their time
@@ -99,6 +99,8 @@ Refer to concepts and objects the way that the participant does. Do not correct 
 * Ask about native language - "Why do you refer to it as _the bat cave_?"
 * Ask about emotional cues - "What made you laugh when you refered to Microsoft?"
 * Probe delicately - "You mentioned this difficult situation, tell me about that situation?"
+* Explain as an outsider - "Lets say I arrived from a previous century, how would you explain a smartphone?"
+* 
 
 # References
 * [Seeing the elephant - Defragmenting user research](http://alistapart.com/article/seeing-the-elephant-defragmenting-user-research)
