@@ -60,6 +60,14 @@ Get the participant to demonstrate an activity, rather than tell you about it. I
 
 **Use their language and terminology**
 Refer to concepts and objects the way that the participant does. Do not correct them explicitly or implicily
+
+**Getting started**
+* Thank the participant for their time
+* At a high level, inform the participant what the interview is about
+* Give a thumbnail overview of the interview process
+* Ask them if they have any questions to start with
+* Do not start too specifically, however be mindful when you move into the mode of asking questions
+
 # Reviewing a user interview
 * Does what I learned change the original objective?
 * Is there a pattern in the data that suggests new design considerations?
