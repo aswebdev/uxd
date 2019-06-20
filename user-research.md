@@ -57,6 +57,9 @@ Not only should you be ready to hear a participants take on things, you shoud be
 
 **Stage activities where possible**
 Get the participant to demonstrate an activity, rather than tell you about it. It will give much more insight into how they complete a set of tasks
+
+**Use their language and terminology**
+Refer to concepts and objects the way that the participant does. Do not correct them explicitly or implicily
 # Reviewing a user interview
 * Does what I learned change the original objective?
 * Is there a pattern in the data that suggests new design considerations?
