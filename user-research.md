@@ -83,8 +83,22 @@ Refer to concepts and objects the way that the participant does. Do not correct 
 * Ask them to demonstrate
 * Don't seek confirmation
 * Don't fear silence
+* Never prosume that the participant accepts your world view
 
+## Palette of Question Types
 
+**Questions that gather context and details**
+* Ask about sequence - "How do you describe a typical work day?"
+* Ask about quantity - "How many files would you delete in a session?"
+* Ask about specific examples - "Tell me about the last movie you streamed?"
+* Ask about exceptions - "Tell me about a time that the customer had a problem?"
+* Ask about relationships - "How do you work with new vendors?"
+
+**Questions that probe whats been unsaid**
+* Ask for clarification - "When you refer to that, are you talking about the newest model?"
+* Ask about native language - "Why do you refer to it as _the bat cave_?"
+* Ask about emotional cues - "What made you laugh when you refered to Microsoft?"
+* Probe delicately - "You mentioned this difficult situation, tell me about that situation?"
 
 # References
 * [Seeing the elephant - Defragmenting user research](http://alistapart.com/article/seeing-the-elephant-defragmenting-user-research)
