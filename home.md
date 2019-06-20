@@ -44,6 +44,7 @@
 2. [Finding secrets](/startups/finding-secrets)
 3. [Computers vs Humans](/startups/computers-vs-humans)
 4. [7 Questions of Product innovation](/startups/seven-questions)
+5. [What is a strategy](/startups/what-is-a-strategy)
 
 ### Management
 1. [5 Ps of management](http://www.i4design.com/chickenscratch/2017/4/23/5ps-management)
