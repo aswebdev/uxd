@@ -22,9 +22,10 @@
 18. [Forms](/forms)
 19. [Onboarding](/onboarding)
 
-### Experience Blueprinting
+### Blueprinting
 
 1. [Experience Blueprints](/experience-blueprints)
+2. [Ecosystem maps](/ecosystem-maps) - A tool to help understand business models
 
 ### Lean
 
