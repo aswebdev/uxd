@@ -32,6 +32,8 @@ Learn to interpret what the users true problems are, instead of creating solutio
 * Is concise and as simple as you can make it
 
 # Conducting user interviews
+
+### Planning the interview
 **Define the research goals**
 Make sure you put it into a research plan and share with your team to ensure that everyone is on the same page
 
@@ -41,7 +43,20 @@ Do your clients know their research goals? Help them along by asking key questio
 **Prep a discussion guide**
 This will guide your interviews and help you ask all the important topics you don't want to forget.
 
+### The Interview
 
+**Show a bland curiousity**
+We are all informed by our own experiences, suspicions and what people have told you. Leave these at the door and come in with a _bland curiousity_
+
+**Be hungry for the participants take on things**
+Not only should you be ready to hear a participants take on things, you shoud be _hungry_ for it. Embrace this as a deliberate state
+
+** Be aware of your body language**
+* Make and maintain eye contact
+* Lean forward and be visibly engaged
+
+** Stage activities where possible**
+Get the participant to demonstrate an activity, rather than tell you about it. It will give much more insight into how they complete a set of tasks
 # Reviewing a user interview
 * Does what I learned change the original objective?
 * Is there a pattern in the data that suggests new design considerations?
