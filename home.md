@@ -22,6 +22,9 @@
 18. [Forms](/forms)
 19. [Onboarding](/onboarding)
 
+### Visual Design
+1. [Grids](/visual-design/grids)
+
 ### Blueprinting
 
 1. [Experience Blueprints](/experience-blueprints)
