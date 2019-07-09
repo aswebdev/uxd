@@ -24,6 +24,7 @@
 
 ### Visual Design
 1. [Grids](/visual-design/grids)
+2. [Animation](/visual-design/animation)
 
 ### Blueprinting
 
