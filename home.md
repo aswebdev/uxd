@@ -54,6 +54,8 @@
 ### Management
 1. [5 Ps of management](http://www.i4design.com/chickenscratch/2017/4/23/5ps-management)
 
+### Personal Growth
+1. [Well formed outcome](/personal-growth/well-formed-outcome)
 
 ### General
 
