@@ -1,3 +1,4 @@
 <!-- TITLE: Introduction to Design Systems -->
 
-# Header
+# Definition
+*A set of connected patterns and shared practices, coherently organised to serve the purposes of a digital product*
