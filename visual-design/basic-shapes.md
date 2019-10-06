@@ -10,3 +10,10 @@
 * Smooth shape
 * Found in nature; planets, raindrops, eyes
 * Can comminite unity; Olympic rings, dancing in circles, round table discussions
+
+
+# Triangle
+* Asymmertic shape, unique among shapes for its directionality
+* Consists of three points
+* Widely used in graphic design for its aesthetic qualitites; Great Pyramids
+* The sum of the internal angles will always be 180 degrees
