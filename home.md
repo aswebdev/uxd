@@ -23,7 +23,8 @@
 19. [Onboarding](/onboarding)
 
 ### Visual Design
-1. [Grids](/visual-design/grids)
+1. [Basic Shapes](/visual-design/basic-shapes)
+2. [Grids](/visual-design/grids)
 2. [Animation](/visual-design/animation)
 
 
