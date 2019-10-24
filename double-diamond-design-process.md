@@ -49,6 +49,19 @@ A solution is finalised, developed, produced and then launched. Taking all the p
 The delivery should ensure that relevant metrics can be measured against, so that success of the project can be known.
 
 
+# Design Thinking
+
+Similar concept to this is known as Design Thinking
+
+
+![Design Thinking](/uploads/design-thinking.png "Design Thinking")
+
+* We’re going to do things differently from how we’ve always done it before.
+* We’re going to study problems before we jump to solutions.
+* We’re going to treat requirements as assumptions and validate them.
+* We’re going to diverge on our best ideas before picking the one that matches the solution best.
+* We’re going to map the customer’s journey to see where we’ve made a mess of things.
+* We’re going to build multiple prototypes and watch users interact with them, to learn what’s best.
 # References
 1. [The Design Process. What is the Double Diamond](https://www.designcouncil.org.uk/news-opinion/design-process-what-double-diamond)
 2. [Design Kit](http://www.designkit.org/)
