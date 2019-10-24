@@ -63,3 +63,7 @@ Ask yourself:
 	* App Icon
 
 
+# References
+[Is 'Delight' the best UX Design Intention?](https://medium.com/@jmspool/is-delight-the-best-ux-design-intention-331053fca4b1)
+
+
