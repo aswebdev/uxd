@@ -71,3 +71,4 @@
 ### To add
 
 Add section on [Disney creative strategy](https://www.designorate.com/disneys-creative-strategy/amp/)
+Add section on [UX Culture and Strategy](https://medium.com/@jmspool/the-making-of-an-organization-changing-ux-strategy-88135de43ab3)
