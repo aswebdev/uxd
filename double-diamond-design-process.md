@@ -53,7 +53,6 @@ The delivery should ensure that relevant metrics can be measured against, so tha
 
 Similar concept to this is known as Design Thinking
 
-
 ![Design Thinking](/uploads/design-thinking.png "Design Thinking")
 
 * We’re going to do things differently from how we’ve always done it before.
