@@ -4,8 +4,3 @@
 *A set of connected patterns and shared practices, coherently organised to serve the purposes of a digital product* - Rangle.io
 
 *A design system is basically the story of how an organization builds a digital product* - Brad Frost
-
-
-# A perfect world
-
-![Design Tokens Flow](/uploads/design-tokens-flow.png "Design Tokens Flow")
