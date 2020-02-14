@@ -23,9 +23,11 @@ Decisions can't be made without options. Demonstrating the path from option to d
 # A perfect world
 ![Design Tokens Flow](/uploads/design-tokens-flow.png "Design Tokens Flow")
 
-# References
-[Tokens in Design Systems](https://medium.com/eightshapes-llc/tokens-in-design-systems-25dd82d58421)
 
 Another example:
 
 ![Design Tokens Flow 2](/uploads/design-tokens-flow-2.png "Design Tokens Flow 2")
+
+# References
+[Tokens in Design Systems](https://medium.com/eightshapes-llc/tokens-in-design-systems-25dd82d58421)
+
