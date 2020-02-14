@@ -12,6 +12,10 @@ A design decision is an option applied to a context. These help designers and de
 
 `$background-color-dark = $color-neutral-20;`
 
+## Architecutre of Options and Decisions
+Decisions can't be made without options. Demonstrating the path from option to decision takes the ambiguity out of the system. Remeber, Options first, decisions second.
+
+
 
 
 
