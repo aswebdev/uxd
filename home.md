@@ -30,7 +30,8 @@
 
 ### Design Systems
 1. [Introduction](/design-systems/introduction)
-2. [Examples](/design-systems/examples)
+2. [Examples of Design Systems](/design-systems/examples)
+3. [Design Tokens](/design-systems/design-tokens)
 
 ### Blueprinting
 
