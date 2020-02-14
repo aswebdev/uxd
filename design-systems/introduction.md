@@ -1,6 +1,8 @@
 <!-- TITLE: Introduction to Design Systems -->
 
-# Definition
+# Definitions
 *A set of connected patterns and shared practices, coherently organised to serve the purposes of a digital product*
+
+*A design system is basically the story of how an organization builds a digital product* - Brad Frost
 
 
