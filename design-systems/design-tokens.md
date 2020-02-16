@@ -17,7 +17,9 @@ Decisions can't be made without options. Demonstrating the path from option to d
 
 
 
+# Implementing Design Tokens into a System
 
+A successful, enduring token architecture depends on straightforward grouping, ordering, classification and decision-making.
 
 
 # A perfect world
