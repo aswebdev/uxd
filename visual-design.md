@@ -23,3 +23,4 @@ What voice or tone do you want your content to project?
 **project** is **adjective**, **adjective** but never **adjective**
 # References
 [Language as Interface](https://clemauyeung.org/2015/06/09/voice-and-tone-ux-design-project/)
+[Type Scale - A Visual Calculator for creating a Type Set](https://type-scale.com/)
