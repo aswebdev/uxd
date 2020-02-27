@@ -34,4 +34,5 @@ Another example:
 [Tokens in Design Systems](https://medium.com/eightshapes-llc/tokens-in-design-systems-25dd82d58421)
 [Theo - Transforming Design Tokens](https://github.com/salesforce-ux/theo)
 [Diez - Compile and Extract Tokens for Multiple Platforms](https://diez.org/)
+[Amazon Style Dictionary](https://amzn.github.io/style-dictionary/#/README)
 
