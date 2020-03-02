@@ -1,5 +1,4 @@
-<!-- TITLE: Fixing Broken Ux -->
-<!-- SUBTITLE: A quick summary of Fixing Broken Ux -->
+<!-- TITLE: Fixing Broken UX -->
 
 
 Unless developing completely new products at a startup, there is the likelihood that your organisation will have accumulated years of legacy design and development in it's products.
@@ -10,7 +9,7 @@ Many large companies end up in a situation where they must maintain dozens, if n
 
 Initiatives to fix these broken experiences can be referred to as "common look and feel", or "unified online experience". Regardless of the term, the common elements represent a drive to bring consistency to a large set of products in multiple stages of development and spearheaded by a centralised internal group.
 
-![](https://oisoftware.atlassian.net/wiki/download/thumbnails/22708227/image2016-5-20%207:34:56.png?version=1&modificationDate=1463695336300&cacheVersion=1&api=v2&height=400 "Andrew Schadendorff > 4\. Fixing a Broken User Experience > image2016-5-20 7:34:56.png")
+![00 Effort To Fix User Experience](/uploads/00-effort-to-fix-user-experience.png "00 Effort To Fix User Experience")
 
 One effective approach begins with surface improvements, goes progressively deeper into structural issues and ends with a big strategic organisational shift.
 
