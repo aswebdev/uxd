@@ -65,4 +65,5 @@ Similar concept to this is known as Design Thinking
 1. [The Design Process. What is the Double Diamond](https://www.designcouncil.org.uk/news-opinion/design-process-what-double-diamond)
 2. [Design Kit](http://www.designkit.org/)
 3. [A Comprehensive Guide to Product Design](https://www.smashingmagazine.com/2018/01/comprehensive-guide-product-design/)
+4. [Lean Startup is great UX Packaging](https://www.smashingmagazine.com/2012/10/lean-startup-is-great-ux-packaging/)
 
