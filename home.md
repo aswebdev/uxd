@@ -21,6 +21,7 @@
 17. [Visual Design](/visual-design)
 18. [Forms](/forms)
 19. [Onboarding](/onboarding)
+20. [Fixing a Broken User Experience](/fixing-broken-ux)
 
 ### Visual Design
 1. [Basic Shapes](/visual-design/basic-shapes)
