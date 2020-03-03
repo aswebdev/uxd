@@ -5,7 +5,6 @@
 
 *A design system is basically the story of how an organization builds a digital product* - Brad Frost
 
-
 # Why Implement a Design System?
 
 * Single Source of Truth - It creates a single source of truth for a brands digital styles and components
@@ -19,5 +18,7 @@
 * Reduce QA Efforts - Centralise activities such as Unit Testing
 * Future Friendly Foundation - Modify, extend and improve over time
 
+# Quotes on Design Systems
+*A Design System isn't a project with an end, it's the origin story of a living and evolving product that'll serve other products*
 # References
 [SoDA Report on Design Systems - How to build an effective Design System](/uploads/tsr-on-design-systems.pdf "SoDA Report on Design Systems - How to build an effective Design System")
