@@ -108,3 +108,4 @@ Refer to concepts and objects the way that the participant does. Do not correct 
 * [The UX research plan that stakeholders love](https://www.smashingmagazine.com/2012/01/ux-research-plan-stakeholders-love/)
 * [UX Research Cheat Sheet](https://www.nngroup.com/articles/ux-research-cheat-sheet/)
 * [User Defenders - User Research War Stories, Steve Portigal](https://userdefenders.com/podcast/049-user-research-war-stories-with-steve-portigal/)
+* [Conducting In-Depth Interviews Guide - Pathfinder](http://www2.pathfinder.org/site/DocServer/m_e_tool_series_indepth_interviews.pdf)
